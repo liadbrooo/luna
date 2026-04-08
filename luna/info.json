@@ -1,0 +1,28 @@
+{
+  "author": [
+    "LA"
+  ],
+  "install_msg": "Danke für die Installation des Luna Cogs! Nutze `[p]lunaset apikey <dein_key>` um deinen API-Key zu konfigurieren.",
+  "name": "Luna",
+  "disabled": false,
+  "short": "Luna FiveM Server-Management API Integration",
+  "description": "Verbindet deinen Discord Bot mit der Luna FiveM Server-Management API. Zeigt Server-Status, Spieler, Bans, Cases, Staff, Game-Data und Crash-Reports direkt in Discord an.",
+  "tags": [
+    "fivem",
+    "luna",
+    "server",
+    "api",
+    "gaming"
+  ],
+  "requirements": [
+    "aiohttp"
+  ],
+  "hidden": false,
+  "min_bot_version": "3.5.0",
+  "max_bot_version": "3.6.0",
+  "min_python_version": [
+    3,
+    9,
+    0
+  ]
+}
